@@ -1,0 +1,2 @@
+C:/Users/sarka/Desktop/health_monitoring_system/android/app/.cxx/RelWithDebInfo/75v5c4x4/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sarka/Desktop/health_monitoring_system/android/app/.cxx/RelWithDebInfo/75v5c4x4/x86_64/CMakeFiles/rebuild_cache.dir
